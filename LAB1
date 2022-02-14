@@ -1,2 +1,12 @@
 ##**guia para utilizar GIT**
--
+
+Git es un software de control de versiones gratis y de código abierto. Fue creado por Linus Torvalds en 2005. Esta herramienta es un sistema de control de versiones que fue inicialmente desarrollado para trabajar con varios desarrolladores en el núcleo de Linux.
+**Creación de cuenta de GitHub**
+-Para crear tu cuenta, necesitas ir al sitio web de GitHub y llenar la forma de registro.
+** Crear el repositorio, clonarlo en tu PC y trabajar en él**
+-involucra la creación de un repositorio totalmente nuevo en GitHub, clonarlo en nuestra computadora, trabajar en nuestro proyecto y enviarlo de regreso.
+-Crea un nuevo repositorio haciendo clic en el botón de "Nuevo repositorio" en la página web de GitHub
+-Elije un nombre para tu primer repositorio, agrega una pequeña descripción, marca la opción "Inicializar este repositorio con un README", y haz clic en el botón "Crear Repositorio".
+**Trabajar en tu proyecto localmente y después crear el repositorio en GitHub y enviarlo a remote.**
+-permite hacer un nuevo repositorio de un folder existente en nuestra computadora y enviarlo a GitHub. En muchos casos es posible que ya hayas creado algo en tu computadora y repentinamente quieras convertirlo en un repositorio en GitHub.
+-De manera predeterminada, cualquier directorio en nuestra computadora no es un repositorio Git – pero lo podemos convertir en un repositorio Git ejecutando el siguiente comando en la terminal.
